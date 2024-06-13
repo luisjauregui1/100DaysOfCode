@@ -22,16 +22,15 @@ def juego():
     for i in range(0,49):
         os.system('cls')
         print(logo)
-        print(f'Lista de indices={index_game}')
         print(f'Compate: A: {data[index_game[i]]["name"]}, a {data[index_game[i]]["description"]}, from {data[index_game[i]]["country"]}.')
         print(vs)
         print(f'Compate: B: {data[index_game[i+1]]["name"]}, a {data[index_game[i+1]]["description"]}, from {data[index_game[i+1]]["country"]}.')
         
         valor_a = data[index_game[i]]['follower_count']
         valor_b = data[index_game[i+1]]['follower_count']
-        print(f'Valor A={valor_a}, B={valor_b}')
+        
 
-        user_input = input('Quien tine mas seguidores? A o B: ').lower()
+        user_input = input('Quien tiene mas seguidores? A o B: ').lower()
         
 
 
@@ -50,34 +49,8 @@ def juego():
                 return False
             
     
-juego()
-# comparar el resulatdo con los valores 
-# en este caso son seguidores y que deberia pasar 
-# A ó B son las opciones
+juego1 = juego()
 
-
-"""
-En que consiste el juego en seleccionar una opcion de la lista de data, son 50 opciones en total
-
-tenemos que imprimir el logo
-
-despues la primer opcion
-    plantilla de impresion
-    
-    compare: A: Shakira, a Musican, from Colombia.
-    data:      name        description    country
-
-imprir el vs
-
-imprimir la segunad opcion
-
-    compare: A: Zendaya, a Actress and Musican, from Usa.
-    data:      name            description       Country
-
-el input donde selecciona mayor o menor ? 
-
-si esta bien continuar, 
-si es incorrecto 
-    imprimir el score y terminar el juego
-
-"""
+if juego1 == False:
+    os.system('cls')
+    print('Perdiste')
