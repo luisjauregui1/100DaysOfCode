@@ -38,68 +38,103 @@ resources = {
     "coffee": 100,
 }
 
+dinero = 0
 
-# TODO: 1 terminal preguntar que te gustaria ? (expresso/Latte/ Cappuccino):
+# TODO: 1 terminal preguntar que te gustaria ? (expresso/Latte/Cappuccino):
 def seleccion_opciones_cafe():
     "Preguntamos por el tipo de cafe y retornamos ese valor"
     entrada_cafe = input(
-        'selecciona tu cafe (espresso/Latte/ Cappuccion): ').lower()
-    return entrada_cafe
+        'selecciona tu cafe (espresso/Latte/ Cappuccino): ').lower()
+    precio = MENU[entrada_cafe]["cost"]
+
+    return entrada_cafe, precio
 
 
 # TODO: 2 Apagar la maquina de caffe ingresado off
+estado_maquina = "on"
+
+def encender_maquina():
+    global estado_maquina
+    estado_maquina = "on"
+    print("La máquina ha sido encendida.")
+
 
 def apagar_maquina():
-    "Apagar maquina, retorna valor_maquina = apagado"
-    valor_maquina = "Apagado"
-    return valor_maquina
+    global estado_maquina
+    estado_maquina = "off"
+    print("La máquina ha sido apagada.")
+
+
+def consultar_estado_maquina():
+    global estado_maquina
+    return estado_maquina
+
 
 # TODO: 3 print reporte => agua: 100ml , milk 50
-#          cuando el usuario ingreser report en la terminal , generamos el reporte
-
-
 def reporte_cantidades():
     for item in resources:
         print(f'{item}: {resources[item]}')
 
+
 # TODO: 4 Checar si tenemos los recursos suficientes.
-
-
 def recursos_para_hacer_cafe(cafe):
-    "Comparara los ingredientes del cafe seleccionado con la receta"
+    "Compara cantidades cafe select con recursos en maquina"
     material = []
     cantidad = []
     disponibilidad = True
     for item in MENU[cafe]['ingredients']:
         if MENU[cafe]['ingredients'][item] <= resources[item]:
             # si alncanz para el valor de la iteracino
-            print(f'if: Ingredientes para cafe:{MENU[cafe]['ingredients'][item]}, recursos de maquina: {resources[item]}')
+            print(f'if: Ingredientes para cafe:{
+                  MENU[cafe]['ingredients'][item]}, recursos de maquina: {resources[item]}')
         elif MENU[cafe]['ingredients'][item] > resources[item]:
             # no alcanza para completar la resta
-            print(f'elfi: Ingredientes para cafe:{MENU[cafe]['ingredients'][item]}, recursos de maquina: {resources[item]}')
+            print(f'elfi: Ingredientes para cafe:{
+                  MENU[cafe]['ingredients'][item]}, recursos de maquina: {resources[item]}')
             material.append(item)
             cantidad.append(resources[item])
-    
+
     if len(material) == 0:
         return material, disponibilidad
-    else:  
+    else:
         return material, cantidad
-            
 
-# print(f'valores que tengo en menu: {MENU["cappuccino"]['ingredients']['milk']}')
-# print(f'mis recursos en maquina: {resources["milk"]}')
-
-cafe_seleccionado = seleccion_opciones_cafe()
-
-material, cantidad = recursos_para_hacer_cafe(cafe_seleccionado)
-
-print(f'Falta material: {material} , cantidad en maquina: {cantidad}')
 
 # TODO: 5 Proceso de mondeas
-#          si hay suficientes recursos para hacer un vevida seleccionada , el progrmada deberia imprimr que inserte monedas
-#          recordar los cuartos 0.25, dimes= 0.10, nickels = 0.05, pennies = 0.01
-#          Calcular el valor monetario de las mondeas insertadas. ejemplo
-#           E.g. 1 quarter, 2 dimes, 1 nickel, 2 pennies = 0.25 + 0.1 x 2 + 0.05 + 0.01 x 2 = $0.52
+def monedas(precio):
+    "sistema de monedas para la maquina retorna la cantidad"
+    monedas_ingresadas = 0
+    sobrante = 0
+    print(f'Precio del cafe: {precio}')
+
+    while True:
+        while True:
+            try:
+                cuartos = int(input('Cuantos cuartos: '))  # cuartos = 0.25
+                dimes = int(input('Cuantos dimes: '))  # dimes = 0.1
+                nickel = int(input('Cuantos nickel: '))  # nickel = 0.05
+                pennies = int(input('Cuantos pennies: '))  # pennies = 0.01
+                break
+            except ValueError:
+                print("cantidad de monedas nada mas! ")
+
+        total = (cuartos * .25) + (dimes * .1) + \
+            (nickel * 0.05) + (pennies * 0.01)
+        monedas_ingresadas += total
+        print(f'Monedas ingresadas: {total}')
+        if monedas_ingresadas == precio:
+            break
+        elif monedas_ingresadas > precio:
+            sobrante = monedas_ingresadas - precio
+            print(f'Tu cambio es {round(sobrante,2)}')
+            break
+
+    return monedas_ingresadas, round(sobrante,2)
+
+
+
+
+
 
 # TODO: 6 Check transaction successful?
 # Checar que el usuario inserte el precio de la vedida, la cantidad correcta
@@ -130,3 +165,11 @@ print(f'Falta material: {material} , cantidad en maquina: {cantidad}')
 # Money: $2.5
 # b.Once all resources have been deducted, tell the user “Here is your latte. Enjoy!”. If
 # latte was their choice of drink.
+
+
+
+    
+cafe, costo = seleccion_opciones_cafe()
+
+
+monedas,cambio = monedas(costo)
