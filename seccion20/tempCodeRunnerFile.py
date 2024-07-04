@@ -1,0 +1,2 @@
+
+screen.onkey(snake.up, 
