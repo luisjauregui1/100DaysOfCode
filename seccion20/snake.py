@@ -28,6 +28,13 @@ class Snake:
         nueva_tortuga.penup()
         nueva_tortuga.goto(position)
         self.tortugas.append(nueva_tortuga)
+    
+    def reset(self):
+        for seg in self.tortugas:
+            seg.goto(1000,1000)
+        self.tortugas.clear()
+        self.crear_serpientes()
+        self.head = self.tortugas[0]
 
     def extend(self):
         # add a new segment to the snake
