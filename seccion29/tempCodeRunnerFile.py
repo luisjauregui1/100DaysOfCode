@@ -1,0 +1,1 @@
+pyperclip.copy(password)
