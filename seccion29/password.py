@@ -26,7 +26,8 @@ def generate_password():
 # ---------------------------- SAVE PASSWORD ------------------------------- #
 
 def save():
-    ruta_file = "C:/Users/Gustavo/Documents/Programacion/100DaysOfCode/seccion29/data.txt"
+    ruta_file = "C:\\Users\\Gustavo\\Documents\\codigo\\100DaysOfCode\\seccion29\\data.txt"
+    
     
     website_texto = website_entry.get()
     email_text = email_entry.get()
@@ -35,7 +36,8 @@ def save():
     if len(email_text) == 0 or len(password_text) == 0:
         messagebox.showinfo(title="Oops", message="Please make sure you haven't left any fields empty.")
     else:
-        is_ok = messagebox.askokcancel(title="website", message=f"These are the detalis entered: \nEmail: {email_text}    \nPassword: {password_text} \nIs it ok to save?" )
+        is_ok = messagebox.askokcancel(title="website", message=f"These are the detalis entered: \nEmail: {email_text} "
+                                                                    "\nPassword: {password_text} \nIs it ok to save?" )
         
         if is_ok:
             f = open(ruta_file, "a")
@@ -53,7 +55,7 @@ window.title("Password Manager")
 window.config(padx=50, pady=50)
 
 canvas = Canvas(window, width=200, height=200)
-logo_img = PhotoImage(file="C:/Users/Gustavo/Documents/Programacion/100DaysOfCode/seccion29/logo.png")
+logo_img = PhotoImage(file="C:\\Users\\Gustavo\\Documents\\codigo\\100DaysOfCode\\seccion29\\logo.png")
 canvas.create_image(100, 100, image=logo_img)
 canvas.grid(row=0, column=1)
 
