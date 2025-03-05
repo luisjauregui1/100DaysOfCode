@@ -4,7 +4,6 @@ from random import choice, randint, shuffle
 import pyperclip
 import json
 
-
 # ---------------------------- Create a file ------------------------------- #
 def crear_archivo_json(nombre_archivo):
     try:
@@ -14,7 +13,6 @@ def crear_archivo_json(nombre_archivo):
         print(f"Archivo JSON '{nombre_archivo}' creado exitosamente.")
     except FileExistsError:
         print(f"El archivo JSON '{nombre_archivo}' ya existe.")
-
 
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
 # Password Generator Project
@@ -36,9 +34,7 @@ def generate_password():
     password = "".join(password_list)
     password_entry.insert(0, password)
 
-# ---------------------------- SAVE PASSWORD ------------------------------- #
-
-
+# ---------------------------- SAVE PASSWORD ------------------------------- 
 def search():
     global website_entry
     search_entry = website_entry.get()
@@ -59,11 +55,6 @@ def search():
 
         except KeyError:
             messagebox.showinfo(title="Oops", message="Does not exist")
-
-        
-
-       
-
 
 # ---------------------------- SAVE PASSWORD ------------------------------- #
 def save():
@@ -109,7 +100,6 @@ def save():
             finally:
                 website_entry.delete(0, END)
                 password_entry.delete(0, END)
-
 
 # ---------------------------- UI SETUP ------------------------------- #
 window = Tk()
