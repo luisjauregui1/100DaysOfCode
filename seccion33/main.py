@@ -1,24 +1,53 @@
-import requests
 from datetime import datetime
+import requests
+import smtplib
+import time
 
-MY_LAT = 42.235331
-MY_LONG = -8.725784
+MY_LAT = 25.776583 # latitud ejemplo
+MY_LONG = 100.189127 # longitud ejemplo
 
-parameters = {
-    "lat": MY_LAT,
-    "lng": MY_LONG ,
-    "formatted": 0
-}
+def is_iss_overhead():
+    # hacer la solicitud a la API de la posicion de la estacion espacial internacional (iss)
+    iss_repsonse = requests.get("http://api.open-notify.org/iss-now.json")
+    iss_repsonse.raise_for_status()
+    iss_data = iss_repsonse.json()
 
-# Hacer la solicitud a la API
-response = requests.get("https://api.sunrise-sunset.org/json", params=parameters)
-response.raise_for_status()
-data = response.json()
-sunrise = data["results"]["sunrise"].split("T")[1].split(":")[0]
-sunset = data["results"]["sunset"].split("T")[1].split(":")[0]
-print(sunrise)
-print(sunset)
+    iss_latitude = float(iss_data['iss_position']["latitude"])
+    iss_longitude = float(iss_data["iss_position"]["longitude"])
 
-time_now = datetime.now()
+    # tu posicion is con +5 o -5 grados de la iss
+    if MY_LAT-5 <= iss_latitude <= MY_LAT+5 and MY_LONG-5 <= iss_longitude <= MY_LONG+5:
+        return True
+        
+    
+def is_nigth():
+    parameters = {
+        "lat": MY_LAT,
+        "lng": MY_LONG ,
+        "formatted": 0,
+    }
+    # Hacer la solicitud a la API de el amanecer y atardecer
+    response = requests.get("https://api.sunrise-sunset.org/json", params=parameters)
+    response.raise_for_status()
+    data = response.json()
 
-print(time_now.hour)
+    sunrise = int(data["results"]["sunrise"].split("T")[1].split(":")[0])
+    sunset = int(data["results"]["sunset"].split("T")[1].split(":")[0])
+    
+    time_now = datetime.now().hour
+    
+    if time_now >= sunset or time_now <=sunrise:
+        return True
+
+
+while True:
+    time.sleep(60)
+    if is_iss_overhead() and is_nigth():
+        connection = smtplib.SMTP("stmp.gmail.com")
+        connection.starttls()
+        # connection.login(MY_EMAIL, MY_PASSWORD)
+        # connection.sendmail(
+        #     from_addr=MY_EMAIL,
+        #     to_addrs=MY_EMAIL,
+        #     msg="Subjet:Look Up 👆\n\nThe ISS is above you in the sky."
+        # )
