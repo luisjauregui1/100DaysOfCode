@@ -1,4 +1,5 @@
 from tkinter import *
+from quiz_brain import QuizBrain
 
 THEME_COLOR = "#375362"
 IMAGE_TRUE = "C:/Users/Gustavo/Documents/codigo/100DaysOfCode/seccion34/quizzler-app-star/images/true.png"
@@ -7,7 +8,9 @@ IMAGE_FALSE = "C:/Users/Gustavo/Documents/codigo/100DaysOfCode/seccion34/quizzle
 
 class QuizInterface:
     
-    def __init__(self):
+    def __init__(self, quiz_brain: QuizBrain):
+        self.quiz = quiz_brain
+        
         self.window = Tk()
         self.window.title("Quizzler") 
         
@@ -23,6 +26,7 @@ class QuizInterface:
         self.question_text = self.canvas.create_text(
             200,
             150,
+            width=350,
             text="Some Question Text",
             fill=THEME_COLOR,
             font=('Arial', 20, 'italic')
@@ -39,5 +43,10 @@ class QuizInterface:
         self.false_botton = Button(image=self.false_img, highlightthickness=0, bg=THEME_COLOR)
         self.false_botton.grid(row=2, column=1)
         
+        self.get_next_question()
                 
         self.window.mainloop()
+        
+    def get_next_question(self):
+        q_text = self.quiz.next_question()
+        self.canvas.itemconfig(self.question_text, text=q_text)
