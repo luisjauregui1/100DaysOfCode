@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 849,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "AndroidGuys"
+            },
+            "author": "AndroidGuys",
+            "title": "Android Gaming: The Best Mobile Games and Accessories in 2025",
+            "description": "Mobile gaming has grown into a powerhouse and Android is right at the center of it. With powerful chipsets, higher refresh rate screens, and console-level titles coming to handheld devices, 2025 is shaping up to be a breakthrough year for Android gamers.\u00a0 Wha\u2026",
+            "url": "https://androidguys.com/promoted-news/android-gaming-the-best-mobile-games-and-accessories-in-2025/",
+            "urlToImage": "https://i0.wp.com/androidguys.com/wp-content/uploads/2025/03/game-play-4622800_1280.jpg?resize=1200%2C853&ssl=1",
+            "publishedAt": "2025-03-26T20:15:00Z",
+            "content": "Mobile gaming has grown into a powerhouse and Android is right at the center of it. With powerful chipsets, higher refresh rate screens, and console-level titles coming to handheld devices, 2025 is s\u2026 [+8222 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Ece Yildirim",
+            "title": "Apple might up its AI game with a $1 billion order of Nvidia servers, analyst says",
+            "description": "Apple (AAPL) has traditionally not been a big player in artificial intelligence model training or server infrastructure. But that might change pretty soon.Read more...",
+            "url": "https://qz.com/apple-nvidia-servers-1-billion-1851772546",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/f0dd21bcfc5ad281cb3743d86051a172.jpg",
+            "publishedAt": "2025-03-26T19:51:00Z",
+            "content": "In This Story\r\nApple (AAPL-1.21%\r\n) has traditionally not been a big player in artificial intelligence model training or server infrastructure. But that might change pretty soon.\r\nApple is officially\u2026 [+2527 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Britney Nguyen",
+            "title": "Nvidia's business could take a hit from China's new rules \u2014 and the stock falls 6%",
+            "description": "Shares of Nvidia (NVDA) were down by around 6% during mid-day trading on Wednesday after a report that its business in China could be negatively impacted by new government rules. The stock traded around$113.48 as of 3:20 p.m. New York Time.Read more...",
+            "url": "https://qz.com/nvidia-stock-china-energy-rule-ai-chip-data-center-1851772538",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/293d48f7c572e09fffc5b521ccc78cf1.jpg",
+            "publishedAt": "2025-03-26T19:21:00Z",
+            "content": "In This Story\r\nShares of Nvidia (NVDA-6.07%\r\n) were down by around 6% during mid-day trading on Wednesday after a report that its business in China could be negatively impacted by new government rule\u2026 [+1711 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "fdemott@businessinsider.com (Filip De Mott)",
+            "title": "Tesla slides 6% as looming auto tariffs tank tech stocks",
+            "description": "Shares of mega-cap tech leaders tumbled Wednesday afternoon after a surprise announcement of auto tariffs from the White House.",
+            "url": "https://www.businessinsider.com/tesla-stock-price-trump-auto-tariffs-trade-war-tech-stocks-2025-3",
+            "urlToImage": "https://i.insider.com/672ad14a192f525898565c1a?width=1200&format=jpeg",
+            "publishedAt": "2025-03-26T18:59:53Z",
+            "content": "Tesla shares dropped more than 6% amid a broad sell-off on Wednesday after the White House said President Donald Trump would announce auto tariffs at 4:00 p.m. ET.\r\nFew details were provided before t\u2026 [+890 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "waynewilliams@onmail.com (Wayne Williams)",
+            "title": "Is CoreWeave another WeWork? Blogger who caused Nvidia market capitalization to drop by $600 billion in a day thinks so",
+            "description": "The blogger whose insights into Nvidia led to it losing $600B market capitalization in a single day says CoreWeave is the \u201cWeWork of AI\u201d.",
+            "url": "https://www.techradar.com/pro/is-coreweave-another-wework-blogger-who-caused-nvidia-market-capitalization-to-drop-by-usd600-billion-in-a-day-thinks-so",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/rEHf6PXNxUriC2DQEgqn6X-1200-80.png",
+            "publishedAt": "2025-03-26T18:32:00Z",
+            "content": "<ul><li>Jeffrey Emanuel called Nvidia overvalued and warned of DeepSeek's rise</li><li>His essay went viral, triggering record market losses and investor panic </li><li>Now he's\u00a0targeting CoreWeave, \u2026 [+3024 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Omgubuntu.co.uk"
+            },
+            "author": "Joey Sneddon",
+            "title": "Zorin OS 17.3 Released with New Default Browser",
+            "description": "The new Zorin OS 17.3 release is available to download and it includes a number of major changes \u2013 like a new default web browser. Based on Ubuntu 22.04 LTS and Linux kernel 6.8, Zorin OS 17.3 offers \u201cnew features, strengthens your privacy, and enhances the e\u2026",
+            "url": "https://www.omgubuntu.co.uk/2025/03/zorin-os-17-3-released-with-new-default-browser",
+            "urlToImage": "https://149366088.v2.pressablecdn.com/wp-content/uploads/2025/03/zorin-os-1.jpg",
+            "publishedAt": "2025-03-26T17:00:00Z",
+            "content": "The new Zorin OS 17.3 release is available to download and it includes a number of major changes like a new default web browser.\r\nBased on Ubuntu 22.04 LTS and Linux kernel 6.8, Zorin OS 17.3 offers \u2026 [+5043 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Francisco Velasquez",
+            "title": "You wouldn't think Old Navy and AI belong in the same sentence \u2014 but here we are",
+            "description": "Gap is betting Old Navy (GPS) and AI will help solidify its position in retail. Read more...",
+            "url": "https://qz.com/gap-old-navy-ai-tech-taco-bell-nvidia-retail-1851772472",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e98d5f7fb1251908afed71880a100123.jpg",
+            "publishedAt": "2025-03-26T16:30:00Z",
+            "content": "In This Story\r\nGap is betting Old Navy (GPS) and AI will help solidify its position in retail. \r\nOld Navy, Gaps largest brand, is partnering with Radar, a tech company that uses RFID, AI, and compute\u2026 [+1674 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Nikki Dual",
+            "title": "Amazon Spring Sale: up to $600 Off Gigabyte AERO 14 OLED & AORUS 15 laptops",
+            "description": "Gigabyte / Gigabyte The Amazon Spring Sale Event is in full swing, and it\u2019s bringing serious heat to your laptop lineup. From March 25 to March 31, you can score deep discounts on high-performance Gigabyte laptops built for creators and gamers alike. Two stan\u2026",
+            "url": "https://www.digitaltrends.com/computing/amazon-spring-sale-up-to-600-off-gigabyte-aero-14-oled-aorus-15-laptops/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/03/Adobe-Express-file-11.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2025-03-26T16:13:53Z",
+            "content": "Gigabyte / Gigabyte\r\nTable of Contents\r\nTable of Contents\r\nUnleash your creativity: Gigabyte AERO 14 OLED gets a $600 price cut\r\nLevel up your game: Gigabyte AORUS 15 slashed by $399\r\nThe Amazon Spri\u2026 [+3096 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Analyst Explains Why His Firm Has Sold Its Entire Nvidia (NVDA) Position",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_04e52a3c-912e-4e14-9bf3-b05dcdb257b4",
+            "urlToImage": null,
+            "publishedAt": "2025-03-26T14:03:13Z",
+            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+702 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rock Paper Shotgun"
+            },
+            "author": "Jay Castello",
+            "title": "inZoi early access review",
+            "description": "I was, like so many of my 1990s-born peers, a huge Sims girlie. I spent hundreds of hours as a teen and young adult making people I knew, characters from shows I was obsessing over, or original characters I wanted to experiment with, and diligently following \u2026",
+            "url": "https://www.rockpapershotgun.com/inzoi-early-access-review",
+            "urlToImage": "https://assetsio.gnwcdn.com/inzoi1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2025-03-26T14:00:00Z",
+            "content": "inZoi review The life that InZOI offers for simulation is pared down to an endless series of vapid, corporate-feeling interactions that never lend themselves to interesting storytelling.\r\n<ul><li>Dev\u2026 [+8165 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "US expands export blacklist to keep computing tech out of China",
+            "description": "The US has added 80 organizations and companies to a trading export blacklist in an effort to prevent China from acquiring computing technology for military purposes. The new restrictions announced by the US Department of Commerce\u2019s Bureau of Industry and Sec\u2026",
+            "url": "https://www.theverge.com/news/636277/us-chinese-export-restrictions-blacklist-80-companies",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_210430_1777_semiCon_0001_8e135b.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-03-26T13:37:26Z",
+            "content": "The Trump administration is imposing more restrictions to prevent advanced US chips from being used by foreign militaries.\r\nThe Trump administration is imposing more restrictions to prevent advanced \u2026 [+2474 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Hallam Bullock",
+            "title": "Looking for a career in private equity? Here's how to navigate the slump.",
+            "description": "The Golden Age of private equity is over, but hot opportunities still abound if you know where to look.",
+            "url": "https://www.businessinsider.com/private-equity-slowdown-career-hot-opportunities-job-seeker-finance-2025-3",
+            "urlToImage": "https://i.insider.com/67e3d9a1b8b41a9673fbb549?width=1200&format=jpeg",
+            "publishedAt": "2025-03-26T12:22:27Z",
+            "content": "private equityEmir Memedovski/Getty Images\r\n<ul><li>This post originally appeared in the Business Insider Today newsletter.</li><li>You can sign up for Business Insider's daily newsletter here.</li><\u2026 [+6313 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Josh Fellman",
+            "title": "Nvidia, Tesla, Dollar Tree, Chewy, GameStop: Stocks to watch",
+            "description": "U.S. stocks may be mixed after European stocks fell on Wednesday amid concerns about Donald Trump\u2019s plans for his April 2 tariff announcement. Futures tied to the S&P 500, the Nasdaq, and the Dow Jones Industrial Average fluctuated. Nvidia (NVDA) and Tesla (T\u2026",
+            "url": "https://qz.com/stocks-gamestop-dollartree-nvidia-chewy-tesla-1851772308",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ba5d8a08651eea35b9642ea77d9b9cc7.jpg",
+            "publishedAt": "2025-03-26T12:05:00Z",
+            "content": "In This Story\r\nU.S. stocks may be mixed after European stocks fell on Wednesday amid concerns about Donald Trumps plans for his April 2 tariff announcement. Futures tied to the S&amp;P 500, the Nasda\u2026 [+1796 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Tobias Mann",
+            "title": "Schneider Electric pumps $700M into US ops as AI datacenter demand surges",
+            "description": "Meanwhile, Apple is lining up '$1B' of Nvidia Blackwell Ultra kit\nSchneider Electric plans to spend $700 million through 2027 to expand its US operations and bolster the supply of its power equipment necessary to sustain the proliferation of AI datacenters.\u2026",
+            "url": "https://www.theregister.com/2025/03/26/schneider_electric_ai_investment/",
+            "urlToImage": "https://regmedia.co.uk/2023/11/06/shutterstock_dc_white.jpg",
+            "publishedAt": "2025-03-26T11:46:10Z",
+            "content": "Schneider Electric plans to spend $700 million through 2027 to expand its US operations and bolster the supply of its power equipment necessary to sustain the proliferation of AI datacenters.\r\nThe in\u2026 [+3195 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Monica J. White",
+            "title": "GPUs are too expensive: how to buy a graphics card right now",
+            "description": "A new report highlights just how hard it is to buy a GPU at MSRP right now. Here's what you can do.",
+            "url": "https://www.digitaltrends.com/computing/gpu-prices-performance-per-dollar-update/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/01/rtx-5080-review-8.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2025-03-26T10:53:02Z",
+            "content": "Table of Contents\r\nTable of Contents\r\nNew report says the MSRP is pretty much dead\r\n6 ways to get a GPU right now\r\nIt\u2019s like it\u2019s 2021 all over again. The prices of the best graphics cards are throug\u2026 [+5828 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Intel is reportedly 'working to finalize commitments from Nvidia' as a foundry partner, suggesting gaming potential for the 18A node",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f29123af-064b-43d0-be86-739f0ae136dd",
+            "urlToImage": null,
+            "publishedAt": "2025-03-26T10:07:24Z",
+            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+702 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Kunal Khullar",
+            "title": "Nvidia\u2019s next-gen GPUs could get a major design change, here\u2019s why that\u2019s good news",
+            "description": "Nvidia is rumored to move to a chiplet design made by TSMC for its next-gen Rubin architecture.",
+            "url": "https://www.digitaltrends.com/computing/tsmc-to-make-chips-for-nvidia-rubin/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/05/RTX-50-laptop-GPU-VRAM-capacity-leak.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2025-03-26T09:05:42Z",
+            "content": "Taiwan Semiconductor Manufacturing Company (TSMC) is reportedly working with Nvidia to develop next-generation GPUs utilizing advanced chiplet technology. This collaboration is expected to play an im\u2026 [+2897 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Emma Cosgrove",
+            "title": "Meet a decades-old software company hitching a ride on the Nvidia rocket ship",
+            "description": "DDN was invited on the rocket ship that is Nvidia just a few years ago \u2014 and everything changed.",
+            "url": "https://www.businessinsider.com/nvidia-partner-ddn-strategic-leap-nvidia-ai-infrastructure-2025-3",
+            "urlToImage": "https://i.insider.com/67e31aa463d72727e1983ad4?width=1200&format=jpeg",
+            "publishedAt": "2025-03-26T09:00:01Z",
+            "content": "Nvidia CEO Jensen Huang during his keynote address at the GTC AI Conference in San Jose, California, on March 18, 2025.OSH EDELSON/AFP via Getty Images\r\n<ul><li>The AI boom is changing the trajectory\u2026 [+4472 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MIT Technology Review"
+            },
+            "author": "Caiwei Chen",
+            "title": "China built hundreds of AI data centers to catch the AI boom. Now many stand unused.",
+            "description": "A year or so ago, Xiao Li was seeing floods of Nvidia chip deals on WeChat. A real estate contractor turned data center project manager, he had pivoted to AI infrastructure in 2023, drawn by the promise of China\u2019s AI craze.\u00a0 At that time, traders in his circl\u2026",
+            "url": "https://www.technologyreview.com/2025/03/26/1113802/china-ai-data-centers-unused/",
+            "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2025/03/250314_EmptyDataCenters_ba7601.jpg?resize=1200,600",
+            "publishedAt": "2025-03-26T09:00:00Z",
+            "content": "Now, his WeChat feed and industry group chats tell a different story. Traders are more discreet in their dealings, and prices have come back down to earth. Meanwhile, two data center projects Li is f\u2026 [+2605 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Britney Nguyen",
+            "title": "Here's how much the Magnificent 7's revenue grew last year",
+            "description": "The Magnificent Seven companies that dominate the tech industry and the U.S. stock market each reported billions of dollars in revenue last year.Read more...",
+            "url": "https://qz.com/magnificent-seven-revenue-growth-2024-nvidia-meta-apple-1851771237",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/88e6335a1129995fa1d483d8bcf8b9b7.jpg",
+            "publishedAt": "2025-03-26T09:00:00Z",
+            "content": "The Magnificent Seven companies that dominate the tech industry and the U.S. stock market each reported billions of dollars in revenue last year.\r\nWhile Amazon (AMZN) reported the highest annual reve\u2026 [+165 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lee Chong Ming",
+            "title": "Goldman Sachs' information chief said the real tech challenge lies in teaching agentic AI company culture",
+            "description": "Without cultural training, the Goldman exec said AI agents risk missing the nuances that define an organization's identity.",
+            "url": "https://www.businessinsider.com/goldman-sachs-marco-argenti-companies-culture-ai-agents-2025-3",
+            "urlToImage": "https://i.insider.com/67e3a97069253ccddf9a4d08?width=1198&format=jpeg",
+            "publishedAt": "2025-03-26T07:55:00Z",
+            "content": "Goldman Sachs; Chelsea Jia Feng/BI\r\n<ul><li>Goldman Sachs' Marco Argenti said businesses need to integrate company culture into AI agents.</li><li>The tech industry has mostly focused on the \"special\u2026 [+2461 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Alistair Barr",
+            "title": "CoreWeave is on the cusp of a huge IPO \u2014 but it could face an expensive hardware problem",
+            "description": "AI advancements could shorten the useful life of CoreWeave's Hopper-based Nvidia GPUs.",
+            "url": "https://www.businessinsider.com/coreweave-ipo-nvidia-gpu-hopper-problem-blackwell-ai-depreciation-2025-3",
+            "urlToImage": "https://i.insider.com/67e34bc469253ccddf9a4ae0?width=1200&format=jpeg",
+            "publishedAt": "2025-03-26T06:27:35Z",
+            "content": "Michael Intrator, the CEO of CoreWeave, is on the cusp of a big initial public offering.Bruno de Carvalho/SOPA Images/LightRocket via Getty Images\r\n<ul><li>Rapid AI advancements may reduce the useful\u2026 [+5374 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Maya Posch",
+            "title": "Brazilian Modders Upgrade NVidia Geforce GTX 970 to 8 GB of VRAM",
+            "description": "Although NVidia\u2019s current disastrous RTX 50-series is getting all the attention right now, this wasn\u2019t the first misstep by NVidia. Back in 2014 when NVidia released the GTX 970 users \u2026read more",
+            "url": "https://hackaday.com/2025/03/25/brazilian-modders-upgrade-nvidia-geforce-gtx-970-to-8-gb-of-vram/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/03/GTX970-8GB-4.jpg",
+            "publishedAt": "2025-03-25T23:00:27Z",
+            "content": "Although NVidia\u2019s current disastrous RTX 50-series is getting all the attention right now, this wasn\u2019t the first misstep by NVidia. Back in 2014 when NVidia released the GTX 970 users were quickly di\u2026 [+1086 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Tyler Colp",
+            "title": "The RTX 5090 is the best and most unnecessary GPU you can buy",
+            "description": "The most powerful graphics card you can buy right now is actually pretty worthless if you don\u2019t have the right PC gaming setup. Nvidia\u2019s GeForce RTX 5090 is at its best when paired with a 4K monitor that can reach high refresh rates, like 144 Hz or 240 Hz. An\u2026",
+            "url": "https://www.polygon.com/gaming/545482/rtx-5090-review-nvidia-graphics-card-gpu",
+            "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/02/rtx-5090.jpg?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+            "publishedAt": "2025-03-25T22:01:58Z",
+            "content": "The most powerful graphics card you can buy right now is actually pretty worthless if you don\u2019t have the right PC gaming setup. Nvidia\u2019s GeForce RTX 5090 is at its best when paired with a 4K monitor \u2026 [+7322 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Jacqueline Thomas",
+            "title": "Nvidia GeForce RTX 5070 Ti vs. AMD Radeon RX 9070 XT",
+            "description": "Both the RTX 5070 Ti and RX 9070 XT are more affordable and deliver an extremely solid 4K gaming experience, but which graphics card takes the cake?",
+            "url": "https://www.ign.com/articles/nvidia-geforce-rtx-5070-ti-vs-amd-radeon-rx-9070-xt",
+            "urlToImage": "https://assets-prd.ignimgs.com/2023/01/03/rtx-4070-ti-broll-1-1672770087393.png?width=1280",
+            "publishedAt": "2025-03-25T20:25:11Z",
+            "content": "While the Nvidia GeForce RTX 5090 sits comfortably at the top of the graphics card market, not many people realistically have the cash to throw at its $1,999+ price tag. Luckily, you dont have to los\u2026 [+7199 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Josh Fellman",
+            "title": "Market rally runs out of steam amid economic anxieties",
+            "description": "The stock rally faltered on Tuesday as U.S. consumers turned their gloomiest in over a decade and as uncertainty persisted over plans for the next round of President Donald Trump\u2019s tariffs, set to be unveiled on April 2.Read more...",
+            "url": "https://qz.com/stocks-lose-steam-tesla-nvidia-boeing-xiaomi-trumpmedia-1851772279",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d925c74d1d0aa76eb0291bc7a7313226.jpg",
+            "publishedAt": "2025-03-25T20:08:00Z",
+            "content": "In This Story\r\nThe stock rally faltered on Tuesday as U.S. consumers turned their gloomiest in over a decade and as uncertainty persisted over plans for the next round of President Donald Trumps tari\u2026 [+3399 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Will Knight",
+            "title": "Databricks Has a Trick That Lets AI Models Improve Themselves",
+            "description": "Using several recent innovations, the company Databricks will let customers boost the IQ of their AI models even if they don\u2019t have squeaky clean data.",
+            "url": "https://www.wired.com/story/databricks-has-a-trick-that-lets-ai-models-improve-themselves/",
+            "urlToImage": "https://media.wired.com/photos/67db5aa5da19484f5df2d477/191:100/w_1280,c_limit/AI-Model-Performance-Boost-Business.jpg",
+            "publishedAt": "2025-03-25T20:00:11Z",
+            "content": "Databricks, a company that helps big businesses build custom artificial intelligence models, has developed a machine learning trick that can boost the performance of an AI model without the need for \u2026 [+2838 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Iain Thomson",
+            "title": "Samsung co-CEO Han Jong-hee dies of heart attack at 63",
+            "description": "The man who helped make Sammy the biggest name in modern tellies\nSamsung co-CEO Han Jong-hee died this week in the Samsung Medical Center in southern Seoul after a cardiac arrest. He was 63.\u2026",
+            "url": "https://www.theregister.com/2025/03/25/samsung_co_ceo_dies/",
+            "urlToImage": "https://regmedia.co.uk/2025/03/25/handout_jong_hee_jh_han.jpg",
+            "publishedAt": "2025-03-25T19:46:04Z",
+            "content": "Samsung co-CEO Han Jong-hee died this week in the Samsung Medical Center in southern Seoul after a cardiac arrest. He was 63.\r\nHan joined the South Korean mega-corporation in 1988 after graduating wi\u2026 [+2206 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "sean.endicott@futurenet.com (Sean Endicott)",
+            "title": "Dell revives Alienware Area-51 with powerful new gaming PCs",
+            "description": "Alienware\u2019s Area-51 desktop and laptops pack RTX 5000 GPUs and Intel's Core Ultra Series 2 CPUs. You can order the new gaming PCs starting today!",
+            "url": "https://www.windowscentral.com/gaming/pc-gaming/dell-revives-alienware-area-51-with-powerful-new-gaming-pcs",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/drs4MtgQ2oCbs7vg5fprEG-1200-80.jpg",
+            "publishedAt": "2025-03-25T19:24:06Z",
+            "content": "Alienware's Area-51 gaming PCs have been around for ages, but they were briefly on a break. That changed when Dell announced the Alienware Area-51 gaming desktop, Alienware 16 Area-51 gaming laptop, \u2026 [+3695 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Omar Gallaga",
+            "title": "Samsung Co-CEO Han Jong-hee Dies of Heart Attack at 63",
+            "description": "The executive at the consumer electronics giant had just named a co-CEO to join him a week before his death.",
+            "url": "https://www.cnet.com/tech/mobile/samsung-co-ceo-han-jong-hee-dies-of-heart-attack-at-63/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/f96ae685ddd8465acdb8520ce094dca7e4d96f28/hub/2025/03/25/e9096b93-1fdf-4a72-a821-c8b9ff1dcda8/gettyimages-2192184273.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-03-25T18:39:00Z",
+            "content": "Consumer electronics and semiconductor giant Samsung will transition to new leadership after the death of its co-CEO, Han Jong-hee, who died Tuesday while being treated for a heart attack.\u00a0\r\nA week b\u2026 [+1774 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "waynewilliams@onmail.com (Wayne Williams)",
+            "title": "Seagate teams with Nvidia to build an NVMe hard drive proof of concept, more than 3 years after its last effort",
+            "description": "Seagate has revealed a new NVMe HDD proof of concept, more than three years after the last one.",
+            "url": "https://www.techradar.com/pro/seagate-teams-with-nvidia-to-build-an-nvme-hard-drive-proof-of-concept-more-than-3-years-after-the-last-one",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/QVZtUtgM6LpWjRyXNm9Sp8-1200-80.jpg",
+            "publishedAt": "2025-03-25T18:34:00Z",
+            "content": "<ul><li>Seagate has debuted a new NVMe hard disk proof of concept</li><li>Prototype system pairs NVMe HDDs, SSDs, DPUs, and AIStore for AI workloads </li><li>NVMe HDDs use less power, with better eff\u2026 [+3003 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Dean Takahashi",
+            "title": "Dreamhaven and Secret Door will launch tactical tabletop-inspired Sunderfolk on April 23",
+            "description": "Dreamhaven's Secret Door said Sunderfolk, a tactical co-op adventure inspired by a deep love of tabletop gaming, will launch on April 23.",
+            "url": "https://venturebeat.com/games/dreamhaven-and-secret-door-will-launch-tactical-tabletop-inspired-sunderfolk-on-april-23/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/03/SF_Six-Unique-Heroes_4k.jpg?w=1024?w=1200&strip=all",
+            "publishedAt": "2025-03-25T18:07:00Z",
+            "content": "Dreamhavens internal development studio Secret Door announced Sunderfolk, a tactical co-op adventure inspired by a deep love of tabletop gaming, will launch on April 23.\r\nThe game will be available o\u2026 [+10081 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (William Gallagher and Mike Wuerthele)",
+            "title": "Apple is reportedly investing heavily into Nvidia servers for AI development",
+            "description": "Perhaps defying Apple's very public claim that it is using Apple Silicon servers to run Apple Intelligence, an analyst insists the company is now spending $1 billion to buy Nvidia systems as well.Siri icon in a datacenterIn April 2024, there were the rumors t\u2026",
+            "url": "https://appleinsider.com/articles/25/03/25/apple-is-reportedly-investing-heavily-into-nvidia-servers-for-ai-development",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/60275-124949-siriinadatacenter-xl.jpg",
+            "publishedAt": "2025-03-25T17:49:50Z",
+            "content": "Perhaps defying Apple's very public claim that it is using Apple Silicon servers to run Apple Intelligence, an analyst insists the company is now spending $1 billion to buy Nvidia systems as well.\r\nI\u2026 [+2153 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Samsung\u2019s 3D Odyssey monitor is now available to reserve, and it might cost $2,000",
+            "description": "After Samsung first revealed its glasses-free 3D monitor last year, the company is finally letting customers reserve preorders for the display, with a since-removed Best Buy page showing a price of $1,999.99. The 27-inch Odyssey 3D G90XF comes with a 4K displ\u2026",
+            "url": "https://www.theverge.com/news/635554/samsung-odyssey-3d-monitor-pricing-preorder",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/G90XF_005_Dynamic1_Silver.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-03-25T17:36:43Z",
+            "content": "The 27-inch monitor offers a glasses-free 3D gaming experience.\r\nThe 27-inch monitor offers a glasses-free 3D gaming experience.\r\nAfter Samsung first revealed its glasses-free 3D monitor last year, t\u2026 [+2266 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Britney Nguyen",
+            "title": "The Trump administration is being asked to relax some AI chip rules",
+            "description": "As the U.S. prepares to roll out rules that will affect global artificial intelligence development, foreign government officials and tech company leaders are asking the Trump administration to relax some rules around chips, according to Bloomberg.Read more...",
+            "url": "https://qz.com/trump-administration-ai-diffusion-rules-chips-nvidia-1851772199",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/1e41f45b98381b4af098ff8704eadb72.jpg",
+            "publishedAt": "2025-03-25T17:20:00Z",
+            "content": "In This Story\r\nAs the U.S. prepares to roll out rules that will affect global artificial intelligence development, foreign government officials and tech company leaders are asking the Trump administr\u2026 [+2263 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ryan Christoffel",
+            "title": "Apple is about to spend $1 billion on NVIDIA servers for AI: analyst",
+            "description": "Amid recent reports of Apple struggling in its AI efforts, particularly with Siri, a new analyst report indicates the company is close to laying down a full $1 billion in new purchases of NVIDIA\u2019s AI servers.\n\n\n\n more\u2026",
+            "url": "https://9to5mac.com/2025/03/25/apple-is-about-to-spend-1-billion-on-nvidia-servers-for-ai-analyst/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/nvidia-apple-intelligence.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2025-03-25T16:33:12Z",
+            "content": "Amid recent reports of Apple struggling in its AI efforts, particularly with Siri, a new analyst report indicates the company is close to laying down a full $1 billion in new purchases of NVIDIAs AI \u2026 [+1430 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Ece Yildirim",
+            "title": "Nvidia's latest innovation started as an April Fools' joke 8 years ago",
+            "description": "On Tuesday, Nvidia unveiled its Project G-Assist, an AI assistant for gamers and gaming content creators",
+            "url": "https://qz.com/nvidias-latest-innovation-started-as-an-april-fools-jok-1851772221",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/82fd54ad133a30203eecd934d6a072f9.jpg",
+            "publishedAt": "2025-03-25T16:15:49Z",
+            "content": "In This Story\r\nIts an April Fools Day miracle.\r\nOn Tuesday, Nvidia (NVDA-0.70%\r\n) unveiled its experimental version of Project G-Assist, an AI assistant for gamers and gaming content creators that th\u2026 [+1519 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCWorld"
+            },
+            "author": "Michael Crider",
+            "title": "Radeon 9060 XT GPUs spotted in regulatory listings in 8GB, 16GB versions",
+            "description": "AMD\u2019s new Radeon RX 9070 and 9070 XT are certified GPU hits\u2026or at least they\u2019re sold out everywhere. It\u2019s hard to tell the difference these days. Dollar-for-dollar they\u2019re extremely competitive with Nvidia\u2019s RTX 50-series, and it seems like there are at least\u2026",
+            "url": "https://www.pcworld.com/article/2648181/amd-9060-xt-graphics-cards-spotted-in-regulatory-listings.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/03/Asus-TUF-Gaming-Radeon-RX-9070-XT-gaming-oc-5.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-03-25T16:05:36Z",
+            "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nAMD\u2019s new Radeon RX \u2026 [+2238 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "c.cale.hunt@gmail.com (Cale Hunt)",
+            "title": "This 1080p gaming CPU is down to $76 \u2014 it doesn't get much better for budget PC builders",
+            "description": "AMD's Ryzen desktop CPUs have serious lasting power, and plenty of budget PC builders are taking advantage of the Ryzen 5 5500 being less than half price for a limited time.",
+            "url": "https://www.windowscentral.com/hardware/cpu-gpu-components/amd-ryzen-5-5500-amazon-deal",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/2UDKUjx8gBjcCPkVBRv6Cc-1200-80.jpg",
+            "publishedAt": "2025-03-25T15:18:32Z",
+            "content": "Amazon's Big Spring Sale is now live, and I've been searching through all of the discounted items for some quality savings on PC hardware.\r\nOne of the most significant discounts I found is on the AMD\u2026 [+2719 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Dean Takahashi",
+            "title": "Samsung unveils next-gen Odyssey gaming monitors with immersive 3D and OLED",
+            "description": "Samsung Electronics America today announced the availability of its newest Odyssey gaming monitors, as well as the ViewFinity S8. The 2025 Odyssey lineup includes the Odyssey 3D, the Odyssey OLED G8 \u2014 which features an industry-first 4K, 240Hz screen \u2014 and th\u2026",
+            "url": "https://venturebeat.com/games/samsung-unveils-next-gen-odyssey-gaming-monitors-with-immersive-3d-and-oled/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/03/2025-Odyssey-OLED-G8-2.jpg?w=1024?w=1200&strip=all",
+            "publishedAt": "2025-03-25T15:00:00Z",
+            "content": "Samsung Electronics America today announced the availability of its newest Odyssey gaming monitors, as well as the ViewFinity S8. \r\nThe 2025 Odyssey lineup includes the Odyssey 3D, the Odyssey OLED G\u2026 [+6860 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCWorld"
+            },
+            "author": "Dominic Bayley",
+            "title": "How Nvidia\u2019s CEO got me excited about our \u2018agentic AI\u2019 future",
+            "description": "\u201cThe era we\u2019re in now is called the era of reasoning AI which is going to be the foundation layer of the next era of AI, or agentic AI.\u201d\r\n\n\n\n\nThis was a statement from Nvidia\u2019s CEO Jensen Huang at HP\u2019s Amplify Conference in Nashville, last week. And in reflec\u2026",
+            "url": "https://www.pcworld.com/article/2646240/how-nvidias-ceo-got-me-excited-about-our-agentic-ai-future.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/03/20250319_093738.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-03-25T15:00:00Z",
+            "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\n\u201cThe era we\u2019re in no\u2026 [+5362 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCWorld"
+            },
+            "author": "Gabriela Vatu",
+            "title": "Amazon Spring Sale 2025: Best deals on laptops, USB drives, SSDs, and more",
+            "description": "Amazon\u2019s Big Spring Sale is finally here! This year\u2019s spring sales event kicks off today on March 25th and will last through March 31st. You\u2019re going to have a whole week to take advantage of fantastic discounts all across Amazon, including on amazing tech.\r\n\u2026",
+            "url": "https://www.pcworld.com/article/2634908/amazon-spring-sale-2025-best-deals.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/03/Untitled-design-9.png?w=1024",
+            "publishedAt": "2025-03-25T14:52:55Z",
+            "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nAmazon\u2019s Big Spring \u2026 [+8677 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCWorld"
+            },
+            "author": "Michael Crider",
+            "title": "Nvidia\u2019s \u2018G-Assist\u2019 AI arrives to optimize your RTX gaming PC",
+            "description": "Nvidia is all-in on AI, even for gamers, which really shouldn\u2019t be a surprise at this point. But it\u2019s not all massive data centers and industrial chips. In addition to releasing a local language model you can train on your own content, Nvidia\u2019s latest goodie \u2026",
+            "url": "https://www.pcworld.com/article/2648083/nvidias-g-assist-ai-arrives-to-optimize-your-rtx-gaming-pc.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/03/nvidia-project-g-assist-2.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-03-25T14:49:51Z",
+            "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nNvidia is all-in on \u2026 [+1902 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCWorld"
+            },
+            "author": "Michael Crider",
+            "title": "You can now use the G-Assist gaming AI assistant in the Nvidia app",
+            "description": "Nvidia is all-in on AI, even for gamers, which really shouldn\u2019t be a surprise at this point. But it\u2019s not all massive data centers and industrial chips. In addition to releasing a local language model you can train on your own content, Nvidia\u2019s latest goodie \u2026",
+            "url": "https://www.pcworld.com/article/2648083/nvidia-g-assist-gaming-ai-assistant-now-available-in-the-nvidia-app.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/03/nvidia-project-g-assist.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-03-25T14:49:51Z",
+            "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nNvidia is all-in on \u2026 [+1902 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "alekshamcloughlin@outlook.com (Aleksha McLoughlin)",
+            "title": "Tired of manually optimizing your games? Nvidia's new G-Assist could save you time",
+            "description": "Nvidia's G-Assist AI tool is now fully operational, and surprisingly powerful.",
+            "url": "https://www.techradar.com/computing/gpu/tired-of-manually-optimizing-your-games-nvidias-new-g-assist-could-save-you-time",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/9p3zYC2xK22nodavdbQXJT-1200-80.jpg",
+            "publishedAt": "2025-03-25T14:47:37Z",
+            "content": "<ul><li>Nvidia's Project G-Assist is now live in the Nvidia App</li><li>It uses text and voice prompts to optimize games, control hardware, and provide diagnostics</li><li>The tool is still experimen\u2026 [+3017 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Darren Allan",
+            "title": "Nvidia Blackwell stock woes are compounded by price hikes as more RTX 5090 GPUs soar in pricing, and I\u2019m sick and tired of it all at this point",
+            "description": "Zotac is the latest graphics card maker to hike RTX 5090 pricing to eye-watering levels, as Nvidia Blackwell GPU misery continues.",
+            "url": "https://www.techradar.com/computing/gpu/nvidia-blackwell-stock-woes-are-compounded-by-price-hikes-as-more-rtx-5090-gpus-soar-in-pricing-and-im-sick-and-tired-of-it-all-at-this-point",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Sh3KMkpUhxr46xbTvpET8S-1200-80.jpg",
+            "publishedAt": "2025-03-25T14:35:45Z",
+            "content": "<ul><li>Zotac has hiked pricing with RTX 5090 models on its US online store</li><li>Two of those, including the top-end board, now cost $500 more</li><li>This follows similar moves by Asus and MSI wi\u2026 [+4357 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Samantha Kelly",
+            "title": "Nvidia Turns an April Fool's Joke Into a Real AI Assistant for PC Gaming",
+            "description": "It started as a joke, turned into a demo years later, and now it's a real tool.",
+            "url": "https://www.cnet.com/tech/gaming/nvidia-turns-an-april-fools-joke-into-a-real-ai-assistant-for-pc-gaming/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/c8d719176bb1a6dc4bad4fadad0ed6af04a24058/hub/2024/03/20/220952c4-6466-4e9f-a394-312829426b37/nvidia-gtc-ai-7666.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-03-25T14:22:18Z",
+            "content": "What started as an April Fool's joke nearly eight years ago has evolved into a real tool for Nvidia.\r\nThe chipmaker unveiled an experimental version of Project G-Assist, an AI assistant designed to e\u2026 [+1574 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geeksaresexy.net"
+            },
+            "author": "Geeks are Sexy",
+            "title": "Amazon\u2019s Big Spring Sale: Black Friday-Level Deals in March! (Deal Compilation)",
+            "description": "\u200bAmazon\u2019s Big Spring Sale is here, offering Black Friday-level discounts across a wide range of products from March 25 to March 31, 2025. Shoppers can enjoy up to 80% off on items spanning tech, home goods, fashion, and more! Here are some standout deals you \u2026",
+            "url": "https://www.geeksaresexy.net/2025/03/25/amazons-big-spring-sale-black-friday-level-deals-in-march-deal-compilation/",
+            "urlToImage": "https://www.geeksaresexy.net/wp-content/uploads/2025/03/deal-spring.jpg",
+            "publishedAt": "2025-03-25T14:00:40Z",
+            "content": "Amazon\u2019s Big Spring Sale is here, offering Black Friday-level discounts across a wide range of products from March 25 to March 31, 2025. Shoppers can enjoy up to 80% off on items spanning tech, home \u2026 [+3274 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wheresyoured.at"
+            },
+            "author": "Edward Zitron",
+            "title": "The Phony Comforts of AI Optimism",
+            "description": "A few months ago, Casey Newton of Platformer ran a piece called \"The phony comforts of AI skepticism,\" framing those who would criticize generative AI as \"having fun,\" damning them as \"hyper-fixated on the things [AI] can't do.\"\n\nI am not going to focus too h\u2026",
+            "url": "https://www.wheresyoured.at/optimistic-cowardice/",
+            "urlToImage": "https://www.wheresyoured.at/content/images/2024/01/wyea--1.jpeg",
+            "publishedAt": "2025-03-25T13:37:35Z",
+            "content": "A few months ago, Casey Newton of Platformer ran a piece called \"The phony comforts of AI skepticism\r\n,\" framing those who would criticize generative AI as \"having fun,\" damning them as \"hyper-fixate\u2026 [+30965 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCWorld"
+            },
+            "author": "Alaina Yee",
+            "title": "How tariffs on laptops and PC hardware punish your wallet, by the numbers",
+            "description": "Tariffs are taxes. When they\u2019re applied, they raise the cost of goods, so right now, U.S. residents (and those near enough to be affected) must pay more on tech products and other affected items.\r\n\n\n\n\nBut despite the flat numbers you may have seen in the news\u2026",
+            "url": "https://www.pcworld.com/article/2646349/how-tariffs-on-laptops-and-pc-hardware-punish-your-wallet-by-the-numbers.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/03/jakub-zerdzicki-ttmeHLUrK94-unsplash.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-03-25T13:00:00Z",
+            "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nTariffs are taxes. W\u2026 [+4653 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Github.com"
+            },
+            "author": "facebookresearch",
+            "title": "VGGT: Visual Geometry Grounded Transformer",
+            "description": "[CVPR 2025] VGGT: Visual Geometry Grounded Transformer - facebookresearch/vggt",
+            "url": "https://github.com/facebookresearch/vggt",
+            "urlToImage": "https://opengraph.githubassets.com/f9a914bf663ceb59f931419b722d5a0cd01ba0fede58c58f2517ff926165fcc2/facebookresearch/vggt",
+            "publishedAt": "2025-03-25T12:59:26Z",
+            "content": "@inproceedings{wang2025vggt,\r\n title={VGGT: Visual Geometry Grounded Transformer},\r\n author={Wang, Jianyuan and Chen, Minghao and Karaev, Nikita and Vedaldi, Andrea and Rupprecht, Christian and Novot\u2026 [+7243 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "c.cale.hunt@gmail.com (Cale Hunt)",
+            "title": "NVIDIA's RTX 5080 is in stock at Newegg, but you won't like the new pricing",
+            "description": "These Gigabyte RTX 5080s are sold straight from Newegg, allowing you to skip third-party sellers and scalpers. However, you still shouldn't expect a good deal.",
+            "url": "https://www.windowscentral.com/hardware/cpu-gpu-components/nvidia-rtx-5080-gigabyte-newegg-stock",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/trNN6w7qrdcC4vY5uBjGkS-1200-80.jpg",
+            "publishedAt": "2025-03-25T12:50:40Z",
+            "content": "NVIDIA's RTX 5080 is back in stock, but it's not all good news.\r\nDespite finding a couple of Gigabyte RTX 5080s being sold straight from Newegg \u2014 no third-party seller that may or may not be legitima\u2026 [+3239 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "XDA Developers"
+            },
+            "author": "Usama Jawad",
+            "title": "Nvidia's impressive gaming copilot is now available",
+            "description": "Nvidia's Project G-Assist is now available for gamers, but there are some caveats.",
+            "url": "https://www.xda-developers.com/nvidia-update-gamers-project-g-assist/",
+            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2025/03/nvidia-app-key-visual.jpg",
+            "publishedAt": "2025-03-25T12:11:21Z",
+            "content": "Summary\r\n<ul><li>\r\n Project G-Assist is now downloadable through the latest Nvidia app update, offering real-time diagnostics and game optimizations.\r\n </li><li>\r\n Assitant only works on specific Nvi\u2026 [+3099 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "zacharylboddy@outlook.com (Zachary Boddy)",
+            "title": "How exactly does Minecraft's Vibrant Visuals upgrade change the game? Here are side-by-side comparisons, and everything else you need to know",
+            "description": "Mojang Studios has announced the Vibrant Visuals update for Minecraft, the long-awaited graphical overhaul. Here's everything you need to know, with some comparisons.",
+            "url": "https://www.windowscentral.com/gaming/minecraft/minecraft-vibrant-visuals-faq",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/qrTxYqLVXMxLsrcPLvKqZS-1200-80.jpg",
+            "publishedAt": "2025-03-25T12:07:22Z",
+            "content": "During the latest Minecraft Live event, players finally received the news we've been wanting to hear for years: Minecraft is getting a much-needed facelift.\r\nIt took far too long, but Mojang Studios \u2026 [+10353 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "samuelwtolbert@gmail.com (Samuel Tolbert)",
+            "title": "The Last of Us Part 2 Remastered PC requirements and specs \u2014 Can your computer run this dark story?",
+            "description": "The Last of Us Part 2 Remastered PC requirements and specs are now available, meaning you can check to see if your gaming rig is ready.",
+            "url": "https://www.windowscentral.com/gaming/pc-gaming/the-last-of-us-part-2-remastered-pc-requirements-and-specs",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/uE8vDQTFGUZD8Xtszut6yc-1200-80.jpg",
+            "publishedAt": "2025-03-25T12:01:29Z",
+            "content": "It's time to check The Last of Us Part 2 Remastered PC requirements and make sure you're ready to go.\r\nYears after it first launched on PlayStation 4, the remastered version this post-apocalyptic adv\u2026 [+4963 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Monica J. White",
+            "title": "Prices of Nvidia\u2019s best GPU rise by up to $500 \u2013 what it means for you",
+            "description": "GPU prices continue to get worse and worse with each passing week. Now, Zotac raised the prices of the RTX 5090 by up to $500.",
+            "url": "https://www.digitaltrends.com/computing/zotac-rtx-5090-price-hike/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/01/rtx-5090-review-5.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2025-03-25T12:00:15Z",
+            "content": "It seems that we\u2019re not destined to have some of the best graphics cards at reasonable prices \u2014 at least not just yet. Now, even a manufacturer that was previously known as budget-friendly is racking\u2026 [+1572 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "XDA Developers"
+            },
+            "author": "Tanveer Singh",
+            "title": "The worst advice that PC enthusiasts love to offer",
+            "description": "PC enthusiasts love their long-held beliefs, but some of them are simply untrue.",
+            "url": "https://www.xda-developers.com/worst-advice-given-by-pc-enthusiasts/",
+            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/10/intel-i9-14900k-1.jpg",
+            "publishedAt": "2025-03-25T12:00:10Z",
+            "content": "If you're in the middle of researching a new PC build, you will inevitably spend a lot of time on Reddit, hunting for first-person experience of various PC components and PC building in general. Redd\u2026 [+9461 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techmeme.com"
+            },
+            "author": null,
+            "title": "Sources: companies like Nvidia and many governments are trying to persuade Trump's team to loosen incoming AI chip export rules, known as the AI diffusion rule (Bloomberg)",
+            "description": "Bloomberg:\nSources: companies like Nvidia and many governments are trying to persuade Trump's team to loosen incoming AI chip export rules, known as the AI diffusion rule\u00a0 \u2014\u00a0 - Nvidia and Oracle pushing for full repeal of AI diffusion rule\u00a0 \u2014 Companies must s\u2026",
+            "url": "https://www.techmeme.com/250325/p11",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJAYpl5PsBkE/v1/1200x800.jpg",
+            "publishedAt": "2025-03-25T11:10:01Z",
+            "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 7:10\u00a0AM\u00a0ET, March\u00a025,\u00a02025.\r\nThe most current version of the site as always is available at our home page.\r\nTo vie\u2026 [+68 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "kevinokemwa@outlook.com (Kevin Okemwa)",
+            "title": "Bill Gates claims three professions will remain indispensable (for now) but \"AI will replace humans for most things\" eventually",
+            "description": "Microsoft's co-founder predicts coders, energy experts, and biologists are the only future-proof professions in the AI era.",
+            "url": "https://www.windowscentral.com/software-apps/bill-gates-3-professions-will-remain-indispensable-for-now",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/qjAuc6Mo47SS5ivRScfyT7-1200-80.jpg",
+            "publishedAt": "2025-03-25T10:30:45Z",
+            "content": "Generative AI is reshaping the world by essentially automating redundant and repetitive tasks to give professionals ample time to focus on more important things. But on the back of that, there's a ri\u2026 [+3017 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Jason Kehe",
+            "title": "RISC Architecture Really Did Change Everything",
+            "description": "\u201cRISC architecture is gonna change everything.\u201d Those absurdly geeky, incredibly prophetic words were spoken 30 years ago. Today, they\u2019re somehow truer than ever.",
+            "url": "https://www.wired.com/story/angelina-jolie-was-right-about-risc-architecture/",
+            "urlToImage": "https://media.wired.com/photos/67c9f7476315473d1caec5db/191:100/w_1280,c_limit/RISC-web-opener.jpg",
+            "publishedAt": "2025-03-25T10:00:00Z",
+            "content": "Yes. Weve been here before. A second war of the architectures.\r\nIn Hackers, a group of RISC- obsessed teens must stop a goateed villain from capsizing a fleet of oil tankers with a computer virus. Pi\u2026 [+3711 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slickdeals.net"
+            },
+            "author": "Dr.Wajahat",
+            "title": "Acer Nitro V Laptop: 15.6\" FHD 144Hz, Ryzen 5 7535HS, RTX 4050, 16GB RAM, 512GB SSD $600 + Free Shipping",
+            "description": "*SPECS:* \n* AMD Ryzen 5 7535HS (3.3GHz) Processor \n* 16GB DDR5 RAM \n* NVIDIA GeForce RTX 4050 Graphics Card \n* 512GB SSD \n* 15.6\" FHD 144Hz IPS Display \n* Gigabit LAN, Wireless LAN WiFi 6 (802.11ax),...",
+            "url": "https://slickdeals.net/f/18198295-acer-nitro-v-15-6-fhd-144hz-ryzen-5-7535hs-rtx-4050-16gb-ddr5-512gb-ssd-599-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+            "urlToImage": "https://slickdeals.net/attachment/2/6/8/0/6/1/2/1/450x450/17288752.thumb",
+            "publishedAt": "2025-03-25T08:45:08Z",
+            "content": "Best Buy via eBay has Acer Nitro V Gaming Laptop (ANV15-41-R2Y3) for $599.99. Shipping is free.Best Buy has Acer Nitro V Gaming Laptop (ANV15-41-R2Y3) for $599.99. Shipping is free, otherwise free st\u2026 [+710 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Creative Bloq"
+            },
+            "author": "Ian Evenden",
+            "title": "ASUS ZenBook Duo 2025 (UX8406) review: great screens, shame about the GPU",
+            "description": "The ASUS ZenBook Duo gets a refresh for 2025, and is still our favourite laptop. It only needs one thing to be perfect, though...",
+            "url": "https://www.creativebloq.com/tech/laptops/asus-zenbook-duo-2025-ux8406-review-great-screens-shame-about-the-gpu",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/PdcX7A3E7NjmUvRD4XH8z5-1200-80.jpg",
+            "publishedAt": "2025-03-25T08:00:00Z",
+            "content": "Why you can trust Creative Bloq\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.When the ASUS Zenbook\u2026 [+9997 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Before You Rush to Buy Nvidia, Here Are 3 Artificial Intelligence (AI) Stocks You Can't Afford to Ignore",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ba1f7b53-431e-40c8-b7c0-0b140de03963",
+            "urlToImage": null,
+            "publishedAt": "2025-03-25T07:35:00Z",
+            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+702 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digiday"
+            },
+            "author": "Sam Bradley",
+            "title": "Mythbuster: Here\u2019s what \u2018agentic\u2019 AI actually means for advertisers, agencies and publishers",
+            "description": "Agentic is the AI buzzword of the moment. Here's what it actually means for agencies, advertisers and media owners - and where it is and isn't actually being used.",
+            "url": "http://digiday.com/media/mythbuster-heres-what-agentic-ai-actually-means-for-advertisers-agencies-and-publishers/",
+            "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2025/01/publisher-llms-digiday.jpg",
+            "publishedAt": "2025-03-25T04:01:00Z",
+            "content": "Forget chatbots and prompt engineering agentic is the latest AI buzzword to captivate and confuse marketers and media execs.\u00a0In recent months, tech firms like OpenAI have emphasized AI agents and age\u2026 [+5905 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "XDA Developers"
+            },
+            "author": "Simon Batt",
+            "title": "AMD fans get something that Nvidia users can't: GPUs that smell nice",
+            "description": "Inhale the soothing tones as you carry your entire team.",
+            "url": "https://www.xda-developers.com/amd-gpu-that-smells-nice/",
+            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2025/03/amd-scented-card-featured-2.png",
+            "publishedAt": "2025-03-25T02:21:56Z",
+            "content": "Summary\r\n<ul><li>\r\n Yeston's Radeon RX 9070 XT offers pleasant scents alongside top performance.\r\n </li><li>\r\n The GPU features \"fragrance modules\" that distribute one of two odors during gameplay.\r\n\u2026 [+2078 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "Jack Ma-Backed Ant Touts AI Breakthrough Using Chinese Chips",
+            "description": "An anonymous reader quotes a report from Bloomberg: Jack Ma-backed Ant Group used Chinese-made semiconductors to develop techniques for training AI models that would cut costs by 20%, according to people familiar with the matter. Ant used domestic chips, incl\u2026",
+            "url": "https://slashdot.org/story/25/03/24/2047228/jack-ma-backed-ant-touts-ai-breakthrough-using-chinese-chips",
+            "urlToImage": "https://a.fsdn.com/sd/topics/china_64.png",
+            "publishedAt": "2025-03-24T23:40:00Z",
+            "content": "Jack Ma-backed Ant Group used Chinese-made semiconductors to develop techniques for training AI models that would cut costs by 20%, according to people familiar with the matter. Ant used domestic chi\u2026 [+1332 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Josh Fellman",
+            "title": "Dow jumps 598 points as Trump eases off on tariff plans",
+            "description": "Stocks surged on Monday as Donald Trump said he may scale back tariffs set to be unveiled on April. 2. The Nasdaq Composite index gained 2.3%, as all Magnificent 7 stocks surged, the S&P 500 gained 1.8%, and the Dow Jones industrial average gained 1.4%, or al\u2026",
+            "url": "https://qz.com/stocks-surge-trump-tariffs-trade-war-byd-tesla-1851772012",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ff66eef45fc784565eddfd285e55ba85.jpg",
+            "publishedAt": "2025-03-24T21:00:00Z",
+            "content": "In This Story\r\nStocks surged on Monday as Donald Trump said he may scale back tariffs set to be unveiled on April. 2. The Nasdaq Composite index gained 2.3%, as all Magnificent 7 stocks surged, the S\u2026 [+2205 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Neena Mishra",
+            "title": "Quantum Computing: Tech's Next Giant Leap?",
+            "description": "Recent developments suggest this futuristic technology is inching closer to reality.",
+            "url": "https://finance.yahoo.com/news/quantum-computing-techs-next-giant-201200500.html",
+            "urlToImage": "https://media.zenfs.com/en/zacks.com/005dc0f87f83d9178f77210ccb9226a7",
+            "publishedAt": "2025-03-24T20:12:00Z",
+            "content": "<ul><li>(2:00) - Key Takeaways From Nvidia GTC 2025\r\n</li><li>(6:50) - What To Learn From Nvidia\u2019s Quantum Day Events\r\n</li><li>(13:30) - What Investors Need To Know About D-wave Quantum Computing\r\n<\u2026 [+5413 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "NVIDIA (NVDA) Breaks Barriers with Advanced AI Networking",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5e36c331-9e8f-479c-91be-9d0d6e100417",
+            "urlToImage": null,
+            "publishedAt": "2025-03-24T19:53:55Z",
+            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+702 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCWorld"
+            },
+            "author": "Michael Crider",
+            "title": "Half-Life 2 with RTX-powered graphics looks absolutely gorgeous",
+            "description": "Valve\u2019s Half-Life 2 is still a wonderful milestone of PC gaming more than 20 years after its original release, but it recently got its dated visuals pumped up with a mod that lets you flex the power of a cutting-edge graphics card. In a video sponsored by Nvi\u2026",
+            "url": "https://www.pcworld.com/article/2647143/half-life-2-with-rtx-powered-graphics-looks-absolutely-gorgeous.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/03/image_65242e-1.png?w=1024",
+            "publishedAt": "2025-03-24T19:21:23Z",
+            "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nValve\u2019s Half-Life 2 \u2026 [+2303 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "waynewilliams@onmail.com (Wayne Williams)",
+            "title": "HP and Dell's latest Nvidia powered PCs are likely to be some of the most expensive workstations ever launched",
+            "description": "HP and Dell have revealed details of their Nvidia DGX Station competitors powered by the GB300 Superchip.",
+            "url": "https://www.techradar.com/pro/hp-and-dells-latest-nvidia-powered-pcs-are-likely-to-be-some-of-the-most-expensive-workstations-ever-launched",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/7RjV9VcLoezdBee2KfPZu7-1200-80.jpg",
+            "publishedAt": "2025-03-24T18:31:00Z",
+            "content": "<ul><li>Nvidia\u2019s DGX Station is powered by the GB300 Grace Blackwell Ultra </li><li>OEMs are making their own versions \u2013 Dell\u2019s is the Pro Max with GB300</li><li>HP\u2019s upcoming GB300 workstation will \u2026 [+2706 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "XDA Developers"
+            },
+            "author": "Rich Edmonds",
+            "title": "I recommend these 3 best Linux distros for gamers ditching Windows",
+            "description": "Looking to game outside of Windows? You'll need one of these Linux distros.",
+            "url": "https://www.xda-developers.com/best-linux-distros-for-gamers-leaving-windows/",
+            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2025/03/arch-linux-dke-konsole-neofetch-close-angle.jpg",
+            "publishedAt": "2025-03-24T17:00:10Z",
+            "content": "Valve has transformed gaming on Linux with Proton, a translation layer used by the company's SteamOS and gaming handhelds. The suite of tools is also available for all Linux-based distros and can be \u2026 [+4780 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCWorld"
+            },
+            "author": "Michael Crider",
+            "title": "Acer\u2019s OLED gaming laptop with RTX 4060 is a whopping $550 off",
+            "description": "The Acer Swift X 14 is a lot of laptop. This particular model has a 16-core Intel processor, an Nvidia RTX 4060 GPU, 16GB of RAM, and topping it all off a gorgeous high-res, high-refresh OLED display. Today, B&H is offering it for $949.99, which is an amazing\u2026",
+            "url": "https://www.pcworld.com/article/2647068/acer-oled-gaming-laptop-with-rtx-4060-is-a-whopping-550-off.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/03/image_91c7e7.png?w=1024",
+            "publishedAt": "2025-03-24T16:03:45Z",
+            "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nThe Acer Swift X 14 \u2026 [+2092 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rock Paper Shotgun"
+            },
+            "author": "Lewis Parker",
+            "title": "The First Berserker: Khazan review",
+            "description": "When Lords of the Fallen came out in 2014, it was interesting to see another developer daring to mimic From Software\u2019s Souls formula. But now that it\u2019s a whole genre, seeing another big-budget soulslike just doesn\u2019t feel special anymore - even Star Wars has h\u2026",
+            "url": "https://www.rockpapershotgun.com/the-first-berserker-khazan-review",
+            "urlToImage": "https://assetsio.gnwcdn.com/the-first-berserker-khazan-review-5b.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2025-03-24T15:00:00Z",
+            "content": "The First Berserker: Khazan review A hack 'n' slash soulslike with an uninspiring plot and tedious level design but its satisfying combat and tough boss fights might make it worth trying.\r\n<ul><li>De\u2026 [+7157 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Britney Nguyen",
+            "title": "Magnificent 7 stocks rise as Trump may narrow on tariffs",
+            "description": "Magnificent 7 stocks rose during Monday morning trading after reports that the Trump administration is considering excluding some tariffs that are set to go into place on April 2.Read more...",
+            "url": "https://qz.com/magnificent-seven-stocks-rise-trump-reciprocal-tariffs-1851771876",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/1e41f45b98381b4af098ff8704eadb72.jpg",
+            "publishedAt": "2025-03-24T13:57:00Z",
+            "content": "In This Story\r\nMagnificent 7 stocks rose during Monday morning trading after reports that the Trump administration is considering excluding some tariffs that are set to go into place on April 2.\r\nMic\u2026 [+1916 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Monica J. White",
+            "title": "MSI could be working on a Nvidia GPU to finally beat the RTX 4090",
+            "description": "MSI might be readying an exciting new version of the RTX 5080. Or is it all just a big mistake?",
+            "url": "https://www.digitaltrends.com/computing/msi-rtx-5080-24gb-vram/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/01/rtx-5080-review-2.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2025-03-24T12:57:42Z",
+            "content": "One leak could be a fluke, but two leaks? MSI might be cooking. As per (now) two leaked images, MSI might have an exciting new GPU in the works, and it\u2019d be one that could rival some of the best grap\u2026 [+1716 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCWorld"
+            },
+            "author": "Gabriela Vatu",
+            "title": "Lenovo\u2019s RTX laptop with Ultra 9 CPU and 32GB RAM is $600 off today",
+            "description": "There are good deals, and then there\u2019s this crazy discount on Lenovo\u2019s IdeaPad Pro 5i at B&H. Now just $1,099, this configuration is fantastic and usually only available this cheap on days like Black Friday.\r\n\n\n\n\nThis laptop is a rocket for productivity, gami\u2026",
+            "url": "https://www.pcworld.com/article/2646298/lenovo-rtx-laptop-with-ultra-9-cpu-and-32gb-ram-is-600-off-today.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/03/Lenovo-IdeaPad-Pro-5i.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-03-24T12:41:44Z",
+            "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nThere are good deals\u2026 [+1560 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Josh Fellman",
+            "title": "Nvidia, Palantir, Tesla, MicroStrategy, Bayer, James Hardie, AZEK: Stocks to watch today",
+            "description": "Stocks may open higher today as futures tied to the S&P 500, the Nasdaq 100, and the Dow Jones Industrial Average all gained following reports that the Trump administration may take a more-targeted approach than initially planned on tariffs it\u2019s set to roll o\u2026",
+            "url": "https://qz.com/stock-watch-nvidia-palantir-tesla-bayer-hardie-azek-1851771821",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/cbc8ac5bd0cb10bcfbb23dbe07b6cde2.jpg",
+            "publishedAt": "2025-03-24T12:36:31Z",
+            "content": "In This Story\r\nStocks may open higher today as futures tied to the S&amp;P 500, the Nasdaq 100, and the Dow Jones Industrial Average all gained following reports that the Trump administration may tak\u2026 [+2489 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Rishabh Sabarwal",
+            "title": "How to use new Raw Input feature in Marvel Rivals",
+            "description": "In , achieving mastery transcends merely selecting the ideal hero or perfecting team synergy\u2014your settings can significantly influence your performance. Featuring more than 30 legendary , including fan favorites such as Spider-Man and Iron Man, the action unf\u2026",
+            "url": "https://www.digitaltrends.com/gaming/how-to-use-new-raw-input-feature-in-marvel-rivals/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/12/1920x1080-vtime1_14-take2024-12-07-07.11.45-e1733580792184.jpeg?resize=1200%2C630&p=1",
+            "publishedAt": "2025-03-24T11:55:54Z",
+            "content": "In Marvel Rivals, achieving mastery transcends merely selecting the ideal hero or perfecting team synergy\u2014your settings can significantly influence your performance. Featuring more than 30 legendary \u2026 [+3817 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Monica J. White",
+            "title": "Driver issues with Nvidia GPUs? No, it\u2019s not just you",
+            "description": "If you're the owner of an Nvidia RTX 40-series GPU, you might be in for some problems if you try the latest drivers.",
+            "url": "https://www.digitaltrends.com/computing/rtx-40-series-driver-issues/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/10/rtx-4090-review-featured.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2025-03-24T11:54:12Z",
+            "content": "While Nvidia\u2019s focus has shifted to some of its best graphics cards from the RTX 50-series, its older GPUs seem to be running into some driver issues. Many users are turning to Reddit to report probl\u2026 [+1878 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Darren Allan",
+            "title": "Nvidia rumors suggest it's working on two affordable GPUs to spoil AMD's party",
+            "description": "Rumors are piling up suggesting the RTX 5060 Ti arrives in mid-April, but can Nvidia muster enough GPU stock to take on AMD\u2019s rival RX 9060?",
+            "url": "https://www.techradar.com/computing/gpu/nvidia-rumors-suggest-its-working-on-two-affordable-gpus-to-spoil-amds-party",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Sy6GkXbkuncWPoCdtGJQaW-1200-80.jpg",
+            "publishedAt": "2025-03-24T11:26:57Z",
+            "content": "<ul><li>RTX 5060 Ti is apparently set to be \u2018released\u2019 come April 16, a new rumor insists</li><li>A further rumor backs up the theory of this being an on-sale date for the GPU</li><li>It looks like w\u2026 [+3770 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ritholtz.com"
+            },
+            "author": "Barry Ritholtz",
+            "title": "10 Monday AM Reads",
+            "description": "My back-to-work morning train WFH reads: \u2022 Investors Who Were All In on U.S. Stocks Are Starting to Look Elsewhere: American exceptionalism was this year\u2019s big trade. Now some are hedging their bets. (Wall Street Journal) \u2022 Dollar Devaluation and the Antisyst\u2026",
+            "url": "https://ritholtz.com/2025/03/10-monday-am-reads-421/",
+            "urlToImage": "https://ritholtz.com/wp-content/uploads/2025/03/Tariff.jpg",
+            "publishedAt": "2025-03-24T10:30:43Z",
+            "content": "Investors Who Were All In on U.S. Stocks Are Starting to Look Elsewhere: American exceptionalism was this years big trade. Now some are hedging their bets. (Wall Street Journal)\r\nDollar Devaluation a\u2026 [+3393 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "kevinokemwa@outlook.com (Kevin Okemwa)",
+            "title": "OpenAI's Sam Altman claims AI will \"gradually\" replace software engineers \u2014 Creating an urgent need to master \"AI tools\"",
+            "description": "OpenAI CEO Sam Altman says there's a high probability that AI will replace coding jobs in a gradual but accelerating manner.",
+            "url": "https://www.windowscentral.com/software-apps/openai-sam-altman-ai-will-gradually-replace-software-engineers",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/9dWDoTcoisPbeEYgUhxsEh-1200-80.jpg",
+            "publishedAt": "2025-03-24T10:30:00Z",
+            "content": "With the emergence of sophisticated generative AI tools like OpenAI's o1 reasoning model, the future of software engineering as a career for the youth continues to fade. When the ChatGPT maker unveil\u2026 [+3374 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HYPEBEAST"
+            },
+            "author": "info@hypebeast.com (Hypebeast)",
+            "title": "CEO of NVIDIA Receives ERL Leather Jacket by Neo Gamma Humanoid Robot",
+            "description": "CEO of NVIDIA, Jensen Huang recently received an ERL-designed studded leather jacket from 1X Technologies -- an AI robotics company producing humanoids that are capable of human-like movements and behaviors.The exchane between NVIDIA's CEO and the humanoid ro\u2026",
+            "url": "https://hypebeast.com/2025/3/jensen-huang-ceo-of-nvidia-receives-erl-leather-jacket-neo-gamma-humanoid-robot-interaction",
+            "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F03%2F24%2Fjensen-huang-ceo-of-nvidia-receives-erl-leather-jacket-neo-gamma-humanoid-robot-interaction-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+            "publishedAt": "2025-03-24T07:15:34Z",
+            "content": "CEO of NVIDIA, Jensen Huang recently received an ERL-designed studded leather jacket from 1X Technologies \u2014 an AI robotics company producing humanoids that are capable of human-like movements and beh\u2026 [+1233 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techmeme.com"
+            },
+            "author": null,
+            "title": "Malaysia plans to tighten chip rules, says Washington demanded it track high-end Nvidia chips entering the country, suspecting many are ending up in China (Financial Times)",
+            "description": "Financial Times:\nMalaysia plans to tighten chip rules, says Washington demanded it track high-end Nvidia chips entering the country, suspecting many are ending up in China\u00a0 \u2014\u00a0 Trade minister says Washington suspects high-end semiconductors are making it to Ch\u2026",
+            "url": "https://www.techmeme.com/250324/p4",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F05e6f8d9-2609-448c-b50c-1288cbfb544f.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+            "publishedAt": "2025-03-24T06:20:00Z",
+            "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 2:20\u00a0AM\u00a0ET, March\u00a024,\u00a02025.\r\nThe most current version of the site as always is available at our home page.\r\nTo vie\u2026 [+68 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Kunal Khullar",
+            "title": "RTX 5090 prices drop from insane to just ridiculous",
+            "description": "It seems that pricing for the RTX 5090 is finally stabalizing, but there's still a long way to go.",
+            "url": "https://www.digitaltrends.com/computing/rtx-5090-price-trend/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/01/rtx-5090-review-3.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2025-03-24T05:35:32Z",
+            "content": "\u200bRecent data indicates that prices for Nvidia\u2019s RTX 5090 graphics card are gradually stabilizing, though they remain significantly above the manufacturer\u2019s suggested retail price (MSRP). A Reddit use\u2026 [+2123 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "XDA Developers"
+            },
+            "author": "Simon Batt",
+            "title": "Now even Nvidia RTX 40 owners are getting hit by weird black screen driver bugs",
+            "description": "Nvidia drivers haven't been doing so hot lately.",
+            "url": "https://www.xda-developers.com/nvidia-rtx-40-black-screen-driver-bugs/",
+            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2024/02/asus-rog-strix-geforce-rtx-4090-btf.jpg",
+            "publishedAt": "2025-03-24T02:17:23Z",
+            "content": "Summary\r\n<ul><li>\r\n Nvidia's newest drivers are causing display issues on older GPUs.\r\n </li><li>\r\n Users are reporting problems like crashes with Cyberpunk 2077.\r\n </li><li>\r\n Best fix for now is to\u2026 [+2164 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thrailkill.cloud"
+            },
+            "author": "Sean Thrailkill",
+            "title": "You need to know about bootc",
+            "description": "At the risk of sounding like every YouTuber out there who wants you to click the \u201cSubscribe\u201d button right now, I really believe everyone who cares about Linux should start learning about Bootc. When looking at the future of Linux and what that could look like\u2026",
+            "url": "https://sean.thrailkill.cloud/posts/you-need-to-know-about-bootc/",
+            "urlToImage": null,
+            "publishedAt": "2025-03-24T00:18:44Z",
+            "content": "At the risk of sounding like every YouTuber out there who wants you to click the Subscribe button right now, I really believe everyone who cares about Linux should start learning about Bootc. When lo\u2026 [+3187 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Chipsandcheese.com"
+            },
+            "author": "Chester Lam",
+            "title": "RDNA 4's \"Out-of-Order\" Memory Accesses",
+            "description": "Examining RDNA 4's out-of-order memory accesses in detail, and investigating with testing",
+            "url": "https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses",
+            "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef664cd8-175d-4819-9870-42967d928aef_8280x5512.jpeg",
+            "publishedAt": "2025-03-23T22:18:29Z",
+            "content": "AMD's RDNA 4 brings a variety of memory subsystem enhancements. Among those, one slide stood out because it dealt with out-of-order memory accesses. According to the slide, RDNA 4 allows requests fro\u2026 [+11502 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "waynewilliams@onmail.com (Wayne Williams)",
+            "title": "Asus debuts its own mini AI supercomputer: Ascent GX10 costs $2999 and comes with Nvidia's GB10 Grace Blackwell Superchip",
+            "description": "Asus unveils Ascent GX10, a compact AI supercomputer powered by Nvidia\u2019s Grace Blackwell GB10 Superchip.",
+            "url": "https://www.techradar.com/pro/asus-debuts-its-own-mini-ai-supercomputer-ascent-gx10-costs-usd2999-and-comes-with-nvidias-gb10-grace-blackwell-superchip",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/UTpG9KSujQCP2rTYVtPFXg-1200-80.jpg",
+            "publishedAt": "2025-03-23T18:36:00Z",
+            "content": "<ul><li>Asus' new Ascent GX10 brings AI supercomputing power directly to developers</li><li>Promises 1000 TOPS of AI processing and can handle models up to 200 billion parameters</li><li>It's cheaper\u2026 [+2455 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "rebecca.spear@futurenet.com (Rebecca Spear)",
+            "title": "I tested MSI Claw 8 AI+ and compared it against Steam Deck \u2014 Here's why one of these handhelds reigns supreme",
+            "description": "I compared the MSI Claw 8 AI+ against the Steam Deck to see which one is the best handheld. One is more powerful, but does that make it worth buying?",
+            "url": "https://www.windowscentral.com/gaming/msi-claw-8-ai-plus-vs-steam-deck",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/hnjr2dF5D4JA9QEU7FRst8-1200-80.jpg",
+            "publishedAt": "2025-03-23T15:00:00Z",
+            "content": "I've spent the last couple of weeks testing and comparing the Steam Deck versus the MSI Claw 8 AI+ to see how these gaming handhelds compare against each other and to figure out the best use cases fo\u2026 [+28633 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "waynewilliams@onmail.com (Wayne Williams)",
+            "title": "World's biggest RAM vendors develop superior memory form factor exclusively for Nvidia, sorry Intel and AMD",
+            "description": "Micron and SK Hynix have developed a new memory module, called SOCAMM, for Nvidia\u2019s AI platforms.",
+            "url": "https://www.techradar.com/pro/worlds-biggest-ram-vendors-develop-superior-memory-form-factor-exclusively-for-nvidia-sorry-intel-and-amd",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/PRsQLADCyEvsosPhE43NJn-1200-80.jpg",
+            "publishedAt": "2025-03-23T13:27:00Z",
+            "content": "<ul><li>SOCAMM is a new modular memory form factor exclusive to Nvidia systems</li><li>Micron says SOCAMM offers high bandwidth, low power and smaller footprint</li><li>SK Hynix plans production of S\u2026 [+2462 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "zacharylboddy@outlook.com (Zachary Boddy)",
+            "title": "I flew to Nashville to see the one PC company actually delivering useful AI features \u2014 not just promising them",
+            "description": "During HP Amplify 2025, I saw HP's bold vision for AI PCs rapidly manifest into reality, with the company actually delivering and refining useful AI features.",
+            "url": "https://www.windowscentral.com/hardware/hp/seeing-hps-ai-pc-vision-come-to-life-today",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/8i5jYfzyn27XSgXPPaaDcR-1200-80.jpg",
+            "publishedAt": "2025-03-23T13:00:00Z",
+            "content": "Back during October, I had the opportunity to go hands-on with an upcoming flagship enterprise laptop from HP. This was shortly after hearing HP's evolving strategy for AI PCs at its annual Imagine c\u2026 [+13846 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MakeUseOf"
+            },
+            "author": "Jhet Borja",
+            "title": "Here's What I Did to Make a \"Future-Proof\" PC Without Spending a Fortune",
+            "description": "You don't have to spend a fortune building a PC that'll last years.",
+            "url": "https://www.makeuseof.com/how-to-build-a-future-proof-pc/",
+            "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/03/black-pc-with-exposed-front-fans.JPG",
+            "publishedAt": "2025-03-23T11:00:15Z",
+            "content": "Future-proof PCs are usually quite expensive as they're often just the most expensive components stuffed in a PC case. However, with some research and savvy tech purchases, you can build a PC you won\u2026 [+6114 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nakedcapitalism.com"
+            },
+            "author": "Haig Hovaness",
+            "title": "Links 3/23/2025",
+            "description": "Our trenchant daily links: new marine species, Covid and EU remote work, moar Deepseek, Trump Ukraine land carveup? Amazon retreat on new Echo spying, Musk v. judges, Tesla owners leak, Venezuela deportation objection, tourists persecuted, safe rooms",
+            "url": "https://www.nakedcapitalism.com/2025/03/links-3-23-2025.html",
+            "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2025/03/Red-panda.jpg",
+            "publishedAt": "2025-03-23T10:55:03Z",
+            "content": "Ocean Census Expeditions Discover More Than 800 New Marine Species Colossal\r\nWhile everyone is looking for aliens in space, real aliens are right here with us!\r\n\u201cLampocteis Cruentiventer\u201d is the only\u2026 [+5789 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New Atlas"
+            },
+            "author": "Abhimanyu Ghoshal",
+            "title": "Volvo recreates unusual road incidents with AI for safer ADAS features",
+            "description": "Volvo has taken to a cutting-edge technique for reconstructing scenes in 3D virtual worlds to help its cars' safety software expect the unexpected.Continue ReadingCategory: Automotive, TransportTags: Volvo, Artificial Intelligence, Road Safety",
+            "url": "https://newatlas.com/automotive/volvo-recreates-unusual-road-incidents-ai-adas/",
+            "urlToImage": "https://assets.newatlas.com/dims4/default/abd8c86/2147483647/strip/true/crop/1200x630+0+85/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F83%2F35%2F0b8f3bac4c62831a1fa5e73c2131%2Fusing-ai-and-a-3d-rendering-technique-called-gaussian-splatting-volvo-is-generating-rare-traffic-incidents-to-train-its-cars-safety-technologies.jpg&na.image_optimisation=0",
+            "publishedAt": "2025-03-23T09:03:00Z",
+            "content": "Volvo has taken to a cutting-edge technique for reconstructing scenes in 3D virtual worlds to help its cars' safety software expect the unexpected.\r\nIt's called Gaussian splatting, and it can \"create\u2026 [+1793 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Omgubuntu.co.uk"
+            },
+            "author": "Joey Sneddon",
+            "title": "Ubuntu Adds Official Support for NVIDIA Jetson AI Modules",
+            "description": "Canonical has announced that it now \u2018officially supports\u2019 Ubuntu on NVIDIA Jetson, a series of computing modules designed for AI and machine learning applications. The General Availability (GA) of Ubuntu 22.04 LTS for the NVIDIA Jetson Orin brings \u201coptimized \u2026",
+            "url": "https://www.omgubuntu.co.uk/2025/03/ubuntu-announces-official-support-for-nvidia-jetson-ai-modules",
+            "urlToImage": "https://149366088.v2.pressablecdn.com/wp-content/uploads/2023/05/ubuntu-circuit.jpg",
+            "publishedAt": "2025-03-22T22:23:00Z",
+            "content": "Canonical has announced that it now \u2018officially supports\u2019 Ubuntu on NVIDIA Jetson, a series of computing modules designed for AI and machine learning applications.\r\nThe General Availability (GA) of U\u2026 [+2112 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Nadeem Sarwar",
+            "title": "I tested the future of AI image generation. It\u2019s astoundingly fast.",
+            "description": "Experts at MIT and Nvidia created a hybrid approach for AI image generation that takes far less computation resources while retaining high visual details.",
+            "url": "https://www.digitaltrends.com/computing/nvidia-mit-ai-image-generation-hart-model-hybrid-approach/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2025/03/HART-image-generation.jpeg?resize=1200%2C630&p=1",
+            "publishedAt": "2025-03-22T21:46:41Z",
+            "content": "Table of Contents\r\nTable of Contents\r\nA massive breakthrough\r\nSolving the cost-computing crisis\r\nSome rough edges\r\nOne of the core problems with AI is the notoriously high power and computing demand,\u2026 [+6069 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "waynewilliams@onmail.com (Wayne Williams)",
+            "title": "'2-inches gets you 30% more screen': HP is pitching 18-inch laptop as the best new thing in tech",
+            "description": "HP releases world's most powerful 18-inch mobile workstation, the Intel-powered ZBook Fury G1i.",
+            "url": "https://www.techradar.com/pro/2-inches-gets-you-30-percent-more-screen-hp-is-pitching-18-inch-laptop-as-the-best-new-thing-in-tech",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/tdqNdFHAyJ6tDC7d32FRRe-1200-80.jpg",
+            "publishedAt": "2025-03-22T18:31:00Z",
+            "content": "<ul><li>HP ZBook Fury G1i is a powerful 18-inch mobile workstation </li><li>It's powered by up to an Intel Core Ultra 9 285HX and next-gen Nvidia RTX graphics </li><li>There's also a 16-inch model av\u2026 [+2140 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Isaiah Williams",
+            "title": "Assassin's Creed Shadows is hands-down one of the most beautiful PC ports I've ever seen",
+            "description": "There aren't many AAA titles that launch today with some of the best visuals possible and reasonable performance results, and I'm just happy to see Assassin's Creed Shadows do just that.",
+            "url": "https://www.techradar.com/gaming/pc-gaming/assassins-creed-shadows-is-hands-down-one-of-the-most-beautiful-pc-ports-ive-ever-seen",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/B7NmxWT5s9ELcFMQLf3wcg-1200-80.jpg",
+            "publishedAt": "2025-03-22T17:30:00Z",
+            "content": "After suffering with terrible PC ports for the past few months - many of which have no right to perform poorly considering their visuals - I can finally look at a brand-new title and genuinely stop i\u2026 [+4672 chars]"
+        }
+    ]
+}
