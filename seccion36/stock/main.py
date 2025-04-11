@@ -48,9 +48,9 @@ def alphavantage():
     crecimiento_dos_uno = calcular_porcentaje(antier_reg_precio,ayer_reg_precio)
     # condicion temporal!
     if crecimiento_dos_uno >= 5:
-        print(f"NVDA: 🔺{crecimiento_dos_uno:.2f}%")
+        print(f"NVDA:🔺{crecimiento_dos_uno:.2f}%")
     elif crecimiento_dos_uno <=5:
-        print(f"NVDA: 🔺{crecimiento_dos_uno:.2f}%")
+        print(f"NVDA:🔻{crecimiento_dos_uno:.2f}%")
     else:
         print(f"else = NVDA: 🔺{crecimiento_dos_uno:.2f}%")
 
@@ -107,20 +107,14 @@ def newapi():
     descripcion_tres = html.unescape(articulo_tres_description)
     
     noticias = f"""
-    Ultimas noticias de NVIDIA:\n1.- -{titulo_uno}-
-    {descripcion_uno}.\n
-    2.- -{titulo_dos}- 
-    {descripcion_dos}.\n
-    3.- -{titulo_tres}- 
-    {descripcion_tres}
+    Ultimas noticias de NVIDIA:\n1.- {titulo_uno}| {descripcion_uno}.\n2.- {titulo_dos}| {descripcion_dos}.\n3.- {titulo_tres}| {descripcion_tres}
     """
     
     print(noticias)
         
         
 newapi()
-
-
+alphavantage()
 
 
 # print("Json guardado correctamente en data.txt")
